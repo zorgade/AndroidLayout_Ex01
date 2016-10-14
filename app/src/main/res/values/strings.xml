@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLayout_Ex01</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="birthdate">Birthdate</string>
+</resources>
